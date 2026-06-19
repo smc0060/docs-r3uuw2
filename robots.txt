@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-g6z3hv.citysinglescommunity.com/sitemap.xml
